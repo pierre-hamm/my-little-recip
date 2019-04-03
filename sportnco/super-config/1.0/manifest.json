@@ -1,4 +1,7 @@
 {
+    "aliases": [
+        "my-test"
+    ],
     "bundles": {
         "Sportnco\\SuperConfig\\SuperConfigBundle": ["all"]
     },
