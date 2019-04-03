@@ -1,0 +1,11 @@
+{
+    "aliases": [
+        "my-test"
+    ],
+    "bundles": {
+        "Sportnco\\SuperConfig\\SuperConfigBundle": ["all"]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    },
+}
